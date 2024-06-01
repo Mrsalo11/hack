@@ -1,7 +1,7 @@
 <html>
     <title> Зовсім не Хакатон 2024 </title>
     <body style="background:#9400D3;font-family:sans-serif">
-        <header style="background:white">
+        <header style="background:white"> 
             <p style="text-align:left;font-size:20px"> НАЙБІЛЬША ШКОЛА ПРОГРАМУВАННЯ <br/>
 ТА АНГЛІЙСЬКОЇ МОВИ <br/>
 ДЛЯ ДІТЕЙ В УКРАЇНІ </p>
