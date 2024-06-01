@@ -19,15 +19,15 @@
  <img src="https://optim.tildacdn.one/tild3630-6532-4563-b939-373764656131/-/resize/752x/-/format/webp/noroot.png" width="200px" height="200px"  />
  <p id="rcc" style="color:white;text-align:center;font-size:20px "> Розклад святкових стрімів </p>
   <table  style="border:1px solid #483D8B;font-size:20px">
-    <tr style="color:white">
+    <tr style="color:black">
        <td style="border:1px solid blue;"> Час </td>
        <td style="border:1px solid blue;" > Розклад</td>
     </tr>
-    <tr style="color:white"> 
+    <tr style="color:black"> 
         <td style="border:1px solid blue;"> 18:00 </td>
         <td style="border:1px solid blue;"> Початок </td>
     </tr>
-    <tr style="color:white">
+    <tr style="color:black">
          <td style="border:1px solid blue;"> 18:00 </td>
          <td style="border:1px solid blue;"> Номінація Геймдизайн </td>
     </tr>
