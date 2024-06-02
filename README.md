@@ -1,7 +1,7 @@
 <html>
     <title> Зовсім не Хакатон 2024 </title>
     <body style="background:#9400D3;font-family:sans-serif">
-        <header style="background:white"> 
+        <header style="background:white">
             <p style="text-align:left;font-size:20px"> НАЙБІЛЬША ШКОЛА ПРОГРАМУВАННЯ <br/>
 ТА АНГЛІЙСЬКОЇ МОВИ <br/>
 ДЛЯ ДІТЕЙ В УКРАЇНІ </p>
@@ -15,10 +15,10 @@
         <h1 style="text-align:center;color:white;font-size:50px"> КЛОН-<br/> ХАКАТОН <br/> 2024 </h1>
         <main style="background:#9932CC" > 
             <img src="https://optim.tildacdn.one/tild3661-6636-4535-b861-626430333539/-/resize/888x/-/format/webp/noroot.png" width="250px" height="250px"  /> 
- <h2 id="wh" style="text-align:right;color:white; font-size:40px"> Клон-Хакатон - це конкурс проєктів учнів на <br/>якому можна проявити себе, застосувати всі <br/> свої навички, знання та креатив, випробувати <br/> себе, провести круто час та виграти цінні призи. </h2>
+ <h2 id="wh" style="text-align:center;color:white; font-size:40px"> Клон-Хакатон - це конкурс проєктів учнів на <br/>якому можна проявити себе, застосувати всі <br/> свої навички, знання та креатив, випробувати <br/> себе, провести круто час та виграти цінні призи. </h2>
  <img src="https://optim.tildacdn.one/tild3630-6532-4563-b939-373764656131/-/resize/752x/-/format/webp/noroot.png" width="200px" height="200px"  />
  <p id="rcc" style="color:white;text-align:center;font-size:20px "> Розклад святкових стрімів </p>
-  <table  style="border:1px solid #483D8B;font-size:20px">
+  <table  style="border:1px solid #483D8B;background:#7B68EE;font-size:20px">
     <tr style="color:black">
        <td style="border:1px solid blue;"> Час </td>
        <td style="border:1px solid blue;" > Розклад</td>
